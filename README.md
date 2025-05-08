@@ -1,8 +1,15 @@
 ## Bienvenidos a mi Github👋 ##
 <img src="https://github.com/Puyol312/Puyol312/raw/main/codioful-formerly-gradienta-bKESVqfxass-unsplash.jpg" alt="Banner" width="100%" height="200" />
 
-
-
+## Descripcion ##
+```js
+const Caio = {
+	estudios: 'Ingenieria en computacion',
+	pasaTiempos: ['Pescar', 'escuchar musica' ,'concinar'],
+	direccion: 'Fray Bentos, Rio Negro', //Por estudio ->Montevideo
+	materiasDelSemestre: ['Logica','Programacion 4','CDIVV', 'CTS']
+};
+```
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Herramientas aprendidas👨🏻‍💻</h2></summary>
