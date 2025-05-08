@@ -5,9 +5,14 @@
 ```js
 const Caio = {
 	estudios: 'Ingenieria en computacion',
-	pasaTiempos: ['Pescar', 'escuchar musica' ,'concinar'],
-	direccion: 'Fray Bentos, Rio Negro', //Por estudio ->Montevideo
-	materiasDelSemestre: ['Logica','Programacion 4','CDIVV', 'CTS']
+	conocimientos: {
+		ingles: 'B2 First',
+		desarrollo: 'backEnd',
+		excelLevel: 'Alto'
+	},
+	pasaTiempos: ['Pescar', 'escuchar musica', 'concinar'],
+	direccion: 'Fray Bentos, Rio Negro', // Por estudio -> Montevideo
+	materiasDelSemestre: ['Logica', 'Programacion 4', 'CDIVV', 'CTS']
 };
 ```
 <div id="user-content-toc">
