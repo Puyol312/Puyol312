@@ -1,16 +1,25 @@
-## Hi there 👋
+## Bienvenidos a mi Github👋 ##
 
-<!--
-**Puyol312/Puyol312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Herramientas aprendidas👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,cpp,c,vscode,notion,vim,npm,ts,nodejs,git,github,html,py,linux&perline=8" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+	
+| Contribuciones por año 😨💢 |
+|-----------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) |
+
+</div>
