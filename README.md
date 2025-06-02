@@ -14,7 +14,7 @@ const Caio = {
 		ingles: 'B2 First',
 		desarrollo web: 'backEnd',
 		programacion: ['Analisis de Algoritmo','OOP','Programacion Asinc','TADs'],
-		ExcelLevel: 'Alto'
+		Excel_Level: 'Alto'
 	},
 	pasaTiempos: ['Pescar', 'escuchar musica', 'cocinar'],
 	direccion: 'Fray Bentos, Rio Negro', // Por estudio -> Montevideo
