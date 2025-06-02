@@ -1,17 +1,22 @@
 <img src="https://github.com/Puyol312/Puyol312/raw/main/codioful-formerly-gradienta-bKESVqfxass-unsplash.jpg" alt="Banner" width="100%" height="200" />
-<h1 style="text-align: center;">Bienvenidos a mi GitHub💤</h1>
-
-<h2 style="text-align: center;">Descripción🔍</h2>
+<div id="user-content-toc">
+  <ul align="center">
+    <h1 style="display: inline-block">Bienvenidos a mi GitHub💤</h1>
+    <p>Estudiante de Ingenieria en Computacion de la Udelar, interesado en el desarrollo web y desarrollo de videojuegos.</p>
+    <summary><h2 style="display: inline-block">Descripción🔍</h2></summary>
+  </ul>
+</div>
 
 ```js
 const Caio = {
-	estudios: 'Ingenieria en computacion',
+	estudios: 'Ingeniería en computación',
 	conocimientos: {
 		ingles: 'B2 First',
-		desarrollo: 'backEnd',
-		excelLevel: 'Alto'
+		desarrollo web: 'backEnd',
+		programacion: ['Analisis de Algoritmo','OOP','Programacion Asinc','TADs'];
+		ExcelLevel: 'Alto'
 	},
-	pasaTiempos: ['Pescar', 'escuchar musica', 'concinar'],
+	pasaTiempos: ['Pescar', 'escuchar musica', 'cocinar'],
 	direccion: 'Fray Bentos, Rio Negro', // Por estudio -> Montevideo
 	materiasDelSemestre: ['Logica', 'Programacion 4', 'CDIVV', 'CTS']
 };
