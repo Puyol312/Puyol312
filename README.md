@@ -1,7 +1,7 @@
 <img src="https://github.com/Puyol312/Puyol312/raw/main/codioful-formerly-gradienta-bKESVqfxass-unsplash.jpg" alt="Banner" width="100%" height="200" />
-<h1 style="text-align: center"> Bienvenidos a mi GitHub💤</h1>
+<h1 style="text-align: center;">Bienvenidos a mi GitHub💤</h1>
 
-<h2 style="text-algin: center"> Descripción🔍</h2>
+<h2 style="text-align: center;">Descripción🔍</h2>
 
 ```js
 const Caio = {
