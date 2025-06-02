@@ -1,7 +1,7 @@
-## Bienvenidos a mi Github👋 ##
+<h1 style="text-aling: center"> Bienvenidos a mi GitHub💤</h1>
 <img src="https://github.com/Puyol312/Puyol312/raw/main/codioful-formerly-gradienta-bKESVqfxass-unsplash.jpg" alt="Banner" width="100%" height="200" />
 
-## Descripcion ##
+<h2 style="text-aling: center"> Descripción🔍</h2>
 ```js
 const Caio = {
 	estudios: 'Ingenieria en computacion',
