@@ -37,7 +37,7 @@ const Caio = {
 <a href="https://www.linkedin.com/in/caio-renato-puyol-leguiza-353753298" target="_blank">
   <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
 </a>
-<a href="mailto:caiopuyolleguiza@gmail.com">
+<a href="mailto:caiopuyolleguiza@gmail.com" target="_blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" height="50" width="50" />
 </a>
 <a href="https://www.instagram.com/caio_puyol/" target="_blank">
