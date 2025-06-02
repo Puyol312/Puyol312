@@ -2,7 +2,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <h1 style="display: inline-block">Bienvenidos a mi GitHub💤</h1>
-    <p>Estudiante de Ingenieria en Computacion de la Udelar, interesado en el desarrollo web y desarrollo de videojuegos.</p>
+    <p>Actualmente me encuentro cursando la carrera de Ingenieria en Computacion, en la Universidad de la Republica, si bien resido en Fray Bentos, Rio Negro, estoy radicado temporalmente en Montevideo por motivos de formación academica.<br>Poseo un nivel B2 First en inglés, lo cual me permite leer documentos tecnicos y acceder a recursos internacionales sin dificultad.<br>En el area de desarrolo de Software he ido adquiriendo conocimienos, tanto en el area de desarrollo web como desarrollador back-end junior, como más generalmente con el estudio de Análisis de algoritmo, Programación orientada a objetos, Programación asíncrona también estudio y practico metodologías centradas en el diseño de sistemas utilizando UML.</p>
     <summary><h2 style="display: inline-block">Descripción🔍</h2></summary>
   </ul>
 </div>
