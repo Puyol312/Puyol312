@@ -13,7 +13,7 @@ const Caio = {
 	conocimientos: {
 		ingles: 'B2 First',
 		desarrollo web: 'backEnd',
-		programacion: ['Analisis de Algoritmo','OOP','Programacion Asinc','TADs'];
+		programacion: ['Analisis de Algoritmo','OOP','Programacion Asinc','TADs'],
 		ExcelLevel: 'Alto'
 	},
 	pasaTiempos: ['Pescar', 'escuchar musica', 'cocinar'],
