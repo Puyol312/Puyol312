@@ -12,7 +12,7 @@ const Caio = {
 	conocimientos: {
 		ingles: 'B2 First',
 		desarrollo web: 'FullStack',
-		hardware: 'basico'
+		hardware: 'basico',
 		programacion: ['Analisis de Algoritmo','OOP','Programacion Async','TADs'],
 	},
 	pasaTiempos: ['Pescar', 'escuchar musica', 'cocinar'],
