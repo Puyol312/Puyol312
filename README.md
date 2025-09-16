@@ -11,13 +11,13 @@ const Caio = {
 	estudios: 'Ingeniería en computación',
 	conocimientos: {
 		ingles: 'B2 First',
-		desarrollo web: 'backEnd',
-		programacion: ['Analisis de Algoritmo','OOP','Programacion Asinc','TADs'],
-		Excel_Level: 'Alto'
+		desarrollo web: 'FullStack',
+		hardware: 'basico'
+		programacion: ['Analisis de Algoritmo','OOP','Programacion Async','TADs'],
 	},
 	pasaTiempos: ['Pescar', 'escuchar musica', 'cocinar'],
 	direccion: 'Fray Bentos, Rio Negro', // Por estudio -> Montevideo
-	materiasDelSemestre: ['Logica', 'Programacion 4', 'CDIVV', 'CTS']
+	materiasDelSemestre: ['GAL 2', 'PyE', 'CTS']
 };
 ```
 
