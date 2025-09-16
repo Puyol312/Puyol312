@@ -11,7 +11,7 @@ const Caio = {
 	estudios: 'Ingeniería en computación',
 	conocimientos: {
 		ingles: 'B2 First',
-		desarrollo web: 'FullStack',
+		desarrollo_web: 'FullStack',
 		hardware: 'basico',
 		programacion: ['Analisis de Algoritmo','OOP','Programacion Async','TADs'],
 	},
