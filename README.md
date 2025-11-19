@@ -3,7 +3,7 @@
     	<h1 style="display: inline-block">Bienvenidos a mi GitHub💤</h1>
     	<summary><h2 style="display: inline-block">Descripción🔍</h2></summary>
     	<p align= "left">Actualmente curso la carrera de Ingeniería en Computación en la Universidad de la República. Si bien soy de Fray Bentos (Río Negro), estoy radicado temporalmente en Montevideo por motivos académicos.<br>
-Cuento con certificación de inglés nivel B2 First, lo que me permite leer documentación técnica y acceder a recursos internacionales con facilidad.<>
+Cuento con certificación de inglés nivel B2 First, lo que me permite leer documentación técnica y acceder a recursos internacionales con facilidad.<br>
 En el área de desarrollo de software he adquirido experiencia académica y práctica tanto en desarrollo web como en arquitectura y analisis de sistemas. Además, estudio y aplico conceptos de Análisis de Algoritmos, Programación Orientada a Objetos, Programación Asíncrona y metodologías de diseño de sistemas utilizando UML.
 	</p>
 </div><br>
