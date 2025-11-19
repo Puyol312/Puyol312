@@ -2,7 +2,9 @@
 	<img src="https://github.com/Puyol312/Puyol312/raw/main/codioful-formerly-gradienta-bKESVqfxass-unsplash.jpg" alt="Banner" width="100%" height="200" />
     	<h1 style="display: inline-block">Bienvenidos a mi GitHub💤</h1>
     	<summary><h2 style="display: inline-block">Descripción🔍</h2></summary>
-    	<p align= "left">Actualmente me encuentro cursando la carrera de Ingenieria en Computacion, en la Universidad de la Republica, si bien resido en Fray Bentos, Rio Negro, estoy radicado temporalmente en Montevideo por motivos de formación academica.<br>Poseo un nivel B2 First en inglés, lo cual me permite leer documentos tecnicos y acceder a recursos internacionales sin dificultad.<br>En el area de desarrolo de Software he ido adquiriendo conocimienos, tanto en el area de desarrollo web como desarrollador back-end junior, como más generalmente con el estudio de Análisis de algoritmo, Programación orientada a objetos, Programación asíncrona también estudio y practico metodologías centradas en el diseño de sistemas utilizando UML.
+    	<p align= "left">Actualmente curso la carrera de Ingeniería en Computación en la Universidad de la República. Si bien soy de Fray Bentos (Río Negro), estoy radicado temporalmente en Montevideo por motivos académicos.<br>
+Cuento con certificación de inglés nivel B2 First, lo que me permite leer documentación técnica y acceder a recursos internacionales con facilidad.<>
+En el área de desarrollo de software he adquirido experiencia académica y práctica tanto en desarrollo web como en arquitectura y analisis de sistemas. Además, estudio y aplico conceptos de Análisis de Algoritmos, Programación Orientada a Objetos, Programación Asíncrona y metodologías de diseño de sistemas utilizando UML.
 	</p>
 </div><br>
 
@@ -29,7 +31,7 @@ const Caio = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,cpp,c,vscode,notion,vim,npm,ts,nodejs,git,github,html,py,linux,ubuntu,gitlab,md&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap,nodejs,express,mysql,postgres,mongodb,cpp,c,py,git,github,gitlab,vscode,linux,ubuntu,npm,yarn,bun,postman&perline=8" />
   </a>
 </p>
 <br>
@@ -56,9 +58,11 @@ const Caio = {
 	</a>
 </div>
 
-<div>
-	<h2 align="center"><strong>Contribuciones por año 😨💢</strong></h2>
-	<p>Nunca está de más meter un if. Lo ténes que llevar al lugar más alejado del usuario, ahí en el último archivo que parece que no hace nada.<br> Y lo matas a if, no uno solo porque van a decir que fue un bug solucionado de manera sencilla...<br> sino que vas a la última línea de código, donde parece que es una función deprecada... y lo matas a if 6...7...8 seguidos.<br>Luego te tomas 9 tazas de cafe, 2 monsters, si tenes una hamburguesa te manchas la remera y llegas con ojeras a la oficina al grito de "me pongo la camiseta de la empresa".<br> Sos inimputable hermano, al día siguiente te nombran empleado del mes.
-	</p>
-  <img align="center" src="https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5" alt="snakkeee" />
-</div>
+<h2 align="center"><strong>Contribuciones por año 💢</strong></h2>
+<p align="center">
+  El código mejora con práctica, paciencia y la cantidad justa de café.  
+  Siempre buscando escribir mejores soluciones que ayer.
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFhdDF4NzZiNnJ0dm16dzZscTBucGN5cnpueXJzZGllZm5oNmthNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hqU2KkjW5bE2v2Z7Q2/giphy.gif" alt="loading-code" width="350"/>
+</p>
